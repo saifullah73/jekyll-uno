@@ -1,16 +1,15 @@
-<!DOCTYPE html>
-<html>
-  {% include head.html %}
+---
+layout: default
+robots: noindex
+---
 
-  <body>
-    {% include header.html %}
+<div class="main-post-list">
+  <p>Hi ahaha</p>
 
-    <div class="content-wrapper">
-      <div class="content-wrapper__inner">
-        {{ content }}
-      </div>
+  <hr class="post-list__divider ">
 
-      {% include footer.html %}
-    </div>
-  </body>
-</html>
+  {% if paginator.previous_page or paginator.next_page %}
+      {% include pagination.html %}
+  {% endif %}
+
+</div>
