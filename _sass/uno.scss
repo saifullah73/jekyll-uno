@@ -1444,6 +1444,16 @@ i {
 		.post-list__post-title a:hover {
 			color: #b9301c; }
 
+.post-list__project-title {
+	margin-top: 0;
+	margin-bottom: .2em;
+	font-size: 1em;
+	line-height: 1em; }
+	.post-list__project-title a {
+		color: #4a4949; }
+		.post-list__project-title a:hover {
+			color: #b9301c; }		
+
 .post-list__meta {
 	display: block;
 	margin: .7em 0 0 0;
