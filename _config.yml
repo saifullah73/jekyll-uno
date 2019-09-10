@@ -1,6 +1,6 @@
 # Site settings
 title: Saifullah
-description: 'Software Engineer with his head in the clouds'
+description: 'Software Engineer with a will to do something'
 url: 'https://saifullah73.github.io/saifullah/'
 baseurl: '/saifullah'
 # google_analytics: 'UA-XXXXXX-X'
@@ -8,7 +8,7 @@ baseurl: '/saifullah'
 
 author:
   name: 'Saifullah'
-  email: saifullahnust@gmail.com
+  email: saifullah.bese17seecs@seecs.edu.pk
   twitter_username: 
   facebook_username: saifullah7373
   github_username: saifullah73
